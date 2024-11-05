@@ -1,0 +1,27 @@
+# Ignore Visual Studio folder and files
+.vs
+.suo
+.user
+.userosscache
+.sln.docstates
+
+# Ignore build output folders
+bin
+obj
+
+# Ignore packages folder (NuGet)
+packages
+
+# Ignore Rider project files
+.idea
+
+# Ignore project-specific files and folders
+project.lock.json
+project.fragment.lock.json
+
+# Ignore application logs
+.log
+
+# Ignore other operating system-specific files
+.DS_Store
+Thumbs.db
