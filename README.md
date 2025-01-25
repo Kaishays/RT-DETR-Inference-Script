@@ -16,3 +16,14 @@ This repository contains the inference script for the custom **RT-DETR** (Real-T
 
 - **Transformer-Based Architecture**: Utilizes transformer models for enhanced detection capabilities.
 - **High Accuracy**: Detects classes and stationary objects with greater precision.
+
+## Sources
+@misc{zhao2024detrsbeatyolosrealtime,
+      title={DETRs Beat YOLOs on Real-time Object Detection}, 
+      author={Yian Zhao and Wenyu Lv and Shangliang Xu and Jinman Wei and Guanzhong Wang and Qingqing Dang and Yi Liu and Jie Chen},
+      year={2024},
+      eprint={2304.08069},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2304.08069}, 
+}
